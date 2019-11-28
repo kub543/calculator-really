@@ -1,0 +1,60 @@
+body
+{
+	margin: 0;
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+	
+}
+#caly
+{
+	
+	width: 1000px;
+	height: 230px;	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 180px;
+	margin-bottom: 150px;
+}
+.kalkulator
+{
+	display: inline-block;
+	text-align: center;
+	float: center;
+	
+}
+.kalkulator figure img
+{
+	width: 250px;
+	height: 250px;
+	
+	
+}
+.kalkulator img:hover
+{
+	opacity: 0.8;
+	transition: 1s;
+}
+.info
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 20px;
+	
+}
+.al
+{
+	display: align-center;
+}
+.a
+{
+	display: bottom;
+}
+#wynik
+{
+	color: white;
+	background-color: #2F3336;
+	
+}
